@@ -1,0 +1,144 @@
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: : Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+<> 2020-12-12T062859.401.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: : Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+<> 2020-12-12T062817.401.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Authorization: Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-10T113118.200.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization:: Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+<> 2020-12-10T113113.401.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization:: Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+<> 2020-12-10T113102.401.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic: user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+<> 2020-12-10T113009.401.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Authorization: Basic user 50aec204-35ec-4d08-a12a-26c9e33725a9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-10T112759.200.json
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic {{user}} {{50aec204-35ec-4d08-a12a-26c9e33725a9}}
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic {{user}} {{50aec204-35ec-4d08-a12a-26c9e33725a9}}
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic {{user}} {{50aec204-35ec-4d08-a12a-26c9e33725a9}}
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic {{user}} {{50aec204-35ec-4d08-a12a-26c9e33725a9}}
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+Authorization: Basic {{user}} {{50aec204-35ec-4d08-a12a-26c9e33725a9}}
+
+###
+
+GET http://localhost:8080/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-12-10T112037.401.json
+
+###
+
+GET http://localhost:3306/BackEnd/Employee/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3306/BackEnd/Employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3306/BackEnd/Employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:3306/BackEnd/Employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
