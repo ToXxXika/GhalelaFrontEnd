@@ -36,6 +36,6 @@ import { QrScannerComponent } from './pages/qr-scanner/qr-scanner.component';
     FixedPluginModule
   ],
   providers: [],
-  bootstrap: [QrScannerComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
